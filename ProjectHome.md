@@ -1,0 +1,1 @@
+An ini configure process module, similar the keyfile on glib.
